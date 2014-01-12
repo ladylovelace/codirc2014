@@ -1,0 +1,29 @@
+/*Modificações no css devem ser feitas aqui*/
+p{
+  text-align: justify;
+}
+.navbar{
+    opacity: 0.8;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #D5DECF;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #FF7400;
+}
+.navbar-inverse .navbar-brand {
+  color: #D5DECF;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #FF7400;
+}
+.section,
+.section-colored {
+  padding: 10px 0;
+}
+img {
+  horizontal-align: middle;
+}
